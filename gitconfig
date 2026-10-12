@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = thomas.lethellec@gmail.com
+	name = Thomas Le Thellec
